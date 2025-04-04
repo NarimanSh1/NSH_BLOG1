@@ -4,16 +4,17 @@ description: >-
   A personal collection of chemistry notes, equations, and explanations by Nariman. 
   Built with Jekyll and the Minimal Mistakes theme.
 
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+
 twitter_username: 
 github_username: narimansh1
-minimal_mistakes_skin: default
+
 search: true
 
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-
-remote_theme: mmistakes/minimal-mistakes
 
 permalink: /:categories/:title/
 paginate: 5
@@ -33,7 +34,7 @@ plugins:
 
 author:
   name   : "Nariman Shirinli"
-  avatar : "/assets/images/bio-photo.jpg" # You can change or delete this
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Chemical Engineering student sharing curated chemistry notes."
   links:
     - label: "GitHub"
@@ -76,6 +77,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
