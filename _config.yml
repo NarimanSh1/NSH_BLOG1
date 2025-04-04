@@ -81,3 +81,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Physical Chemistry"
+    url: /physical-chemistry/
+  - title: "Analytical Chemistry"
+    url: /analytical-chemistry/
+  - title: "Python for Chemists"
+    url: /python-for-chemistry/
