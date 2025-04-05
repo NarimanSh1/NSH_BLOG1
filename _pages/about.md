@@ -3,9 +3,6 @@ permalink: /about/
 title: "About"
 math: true
 ---
-![A screen shot of a document Description automatically
-generated](media/image1.png){width="6.788208661417323in"
-height="9.424656605424323in"}\
 **TABLE OF CONTENTS**
 
 1.  Acknowledgements
@@ -370,34 +367,10 @@ opportunities in this field.
   YouTube.
   \[https://www.youtube.com/live/KsgxDz-nY_I?si=bLCLRcGGts0zVhlU\]
 
-<!-- -->
-
-- **\
-  **
-
-**APPENDIX**
-
-1.  Python Script:
-
-**\
-**
-
-**\
-**
-
 **WEEKLY JOURN**
 
 **AL**
 
-2.  Power Apps Automation Flow (one of them)
-
-![](media/image8.png){width="6.302777777777778in"
-height="4.520138888888889in"}
-
-3.  Model Accuracy:
-
-![](media/image9.png){width="3.4636646981627295in"
-height="4.56847987751531in"}
 
 **WEEKLY JOURNAL**
 
