@@ -3,198 +3,428 @@ permalink: /about/
 title: "About"
 math: true
 ---
-1\.
+![A screen shot of a document Description automatically
+generated](media/image1.png){width="6.788208661417323in"
+height="9.424656605424323in"}\
+**TABLE OF CONTENTS**
 
-![A page of a physics test Description automatically generated with
-medium confidence](media/image1.png){width="6.268055555555556in"
-height="4.472916666666666in"}
+1.  Acknowledgements
 
-2\.
+2.  Introduction
 
-![A white paper with black text Description automatically
-generated](media/image2.png){width="6.268055555555556in" height="2.3in"}
+3.  Industry and Company Analysis
 
-2\.
+4.  Tasks Completed
 
-![A diagram of a reaction Description automatically
-generated](media/image3.png){width="6.268055555555556in"
-height="7.366666666666666in"}
+    - Process Understanding through P&ID Review
 
-3\.
+    - Training Sessions
 
-![A white text with black text Description automatically
-generated](media/image4.png){width="6.268055555555556in"
-height="3.2993055555555557in"}
+    - Automation of PSV Documents
 
-4\.
+    - Vacuum Pump Change
 
-![A diagram of a graph and a diagram of a graph Description
-automatically generated with medium
-confidence](media/image5.png){width="6.268055555555556in"
-height="7.175in"}
+    - Learning New Digital Tools
 
-![A white paper with black text Description automatically
-generated](media/image6.png){width="6.268055555555556in"
-height="2.495833333333333in"}
+    - TrendMiner Missing Tags Issue
 
-![A black text on a white background Description automatically
-generated](media/image7.png){width="6.268055555555556in"
-height="1.3597222222222223in"}
+5.  Challenges & Solutions
 
-5\.
+6.  Future Plans for Second Half of Internship
 
-![A diagram of a cube Description automatically
-generated](media/image8.png){width="6.268055555555556in"
-height="5.897222222222222in"}
+7.  Possible Career Paths
 
-6\.
+8.  Conclusion
 
-![A diagram of a molecule Description automatically
-generated](media/image9.png){width="6.268055555555556in"
-height="5.0026596675415576in"}
+9.  References
 
-![A text on a page Description automatically
-generated](media/image10.png){width="6.268055555555556in"
-height="2.8465277777777778in"}
+10. Appendix
 
-![A diagram of a cell Description automatically
-generated](media/image11.png){width="6.268055555555556in"
-height="7.804861111111111in"}
+11. Weekly Journal
 
-![A math equations and numbers Description automatically generated with
-medium confidence](media/image12.png){width="6.268055555555556in"
-height="1.2201388888888889in"}
+**ACKNOWLEDGEMENTS**
 
-![A diagram of a rock salt structure Description automatically
-generated](media/image13.png){width="6.268055555555556in"
-height="7.272222222222222in"}
+I would like to express my deepest gratitude to my supervisor, Chek Kuan
+Ang, for his constant support, guidance, and encouragement throughout my
+internship. His expertise and willingness to share insights have
+significantly contributed to my understanding of technical processes and
+industrial applications.
 
-![A math equations and formulas Description automatically
-generated](media/image14.png){width="6.268055555555556in"
-height="1.6583333333333334in"}
+I also express my gratitude to my colleagues at BASF South East Asia Pte
+Ltd for their collaboration and support in helping me integrate into the
+workplace. Their patience and willingness to assist me in
+troubleshooting issues and understanding plant operations have been
+invaluable.
 
-7\.
+Finally, I would like to thank the Department of Chemical Engineering at
+NUS and my mentor, Professor Lakshminarayanan Samavedham, for
+facilitating this industrial internship opportunity, allowing me to gain
+firsthand experience in a real-world industrial setting.
 
-![A paper with text and a diagram Description automatically
-generated](media/image15.png){width="6.268055555555556in"
-height="7.759722222222222in"}
+**INTRODUCTION**
 
-![A diagram of a diagram Description automatically
-generated](media/image16.png){width="6.138888888888889in"
-height="1.2638888888888888in"}
+Internships provide an essential bridge between academic knowledge and
+industrial applications, allowing students to gain hands-on experience
+in their chosen field. This report outlines my internship experience at
+BASF South East Asia Pte Ltd, where I was assigned to the Technical
+Services Department, focusing mainly on the maintenance works. The
+experience provided me with valuable insights into plant operations,
+process automation, and data analytics. Through my engagement with
+different technical projects, I was able to apply theoretical chemical
+engineering concepts in a practical setting, allowing me to better
+understand the challenges and complexities involved in industrial
+processes.
 
-![A text on a page Description automatically generated with medium
-confidence](media/image17.png){width="6.268055555555556in"
-height="5.4125in"}
+This report details the key aspects of my internship, including the
+tasks I undertook, the challenges I faced, and the skills I developed.
+Additionally, it highlights the potential career paths that have become
+more evident as a result of this experience and my plans for the second
+half of the internship. The knowledge and technical skills acquired
+during this period will contribute significantly to my future
+professional growth.
 
-![A diagram of a graphing of a molecule Description automatically
-generated with medium
-confidence](media/image18.png){width="6.268055555555556in"
-height="3.9208333333333334in"}
+**\
+**
 
-![A white text with black text Description automatically
-generated](media/image19.png){width="6.268055555555556in"
-height="2.9291666666666667in"}
+**Overview of BASF**
 
-8\.
+BASF is a global leader in the chemical industry, providing innovative
+solutions across a wide range of sectors, including agriculture,
+plastics, coatings, and specialty chemicals. The company is committed to
+sustainable and efficient chemical production, leveraging digital tools
+and automation technologies to optimize plant operations. With a
+presence in over 80 countries, BASF plays a critical role in driving
+technological advancements in chemical manufacturing.
 
-![A graph of a graph with a line and a line Description automatically
-generated with medium
-confidence](media/image20.png){width="6.268055555555556in"
-height="5.345833333333333in"}
+BASF's Jurong Island facility in Singapore specializes in the production
+of antioxidant additives. These additives, including Irganox® 1010,
+Irgafos® 168, and Metilox®, are widely used in the plastics industry to
+enhance the durability and performance of polymer materials. The
+facility integrates advanced manufacturing technologies to ensure
+high-quality production while maintaining sustainability and
+environmental compliance.
 
-9\.
+**TASKS COMPLETED**
 
-![A diagram of a chemistry experiment Description automatically
-generated](media/image21.png){width="6.803889982502187in"
-height="4.966101268591426in"}
+**A. Process Understanding through P&ID and PFD Review**
 
-b\. Qualitatively explain the shape of the graph.
+One of the primary tasks I undertook during the early phase of my
+internship was reviewing Process Flow Diagrams (PFDs) and Piping &
+Instrumentation Diagrams (P&IDs). These diagrams are crucial in
+understanding plant operations as they visually represent the flow of
+materials, equipment layout, piping, instrumentation, and control
+systems. Since I had no prior experience with PFDs or P&IDs from
+university coursework, this initially posed a significant challenge.
+Even though legends were provided, I still struggled to understand
+anything at first. I felt a bit overwhelmed by this situation because I
+did not want to fail my first task and wanted to contribute at least
+half as much as the company was teaching me. However, with constant
+practice, exploring online resources, and seeking help from my
+colleagues, I gradually became more confident in reading both PFDs and
+P&IDs.
 
-c\. What is the total concentration of copper(II) in the solution in
-half-cell B?
+While I still cannot fully interpret every detail in these diagrams, I
+now know where to find answers online and which symbols or legends to
+refer to. This experience taught me an important lesson: in university,
+knowing all the theory might be necessary, but in practice, knowing
+where to find relevant information is important.
 
-d\. What is the concentration of nitric acid in the buret?
+By analyzing six different sets of PFDs and P&IDs, I was able to
+understand the overall process flow of the plant, identify key
+components, and comprehend how different systems interact. This
+knowledge was critical when working on troubleshooting tasks.
 
-![A close up of text Description automatically
-generated](media/image22.png){width="6.403648293963254in"
-height="0.8258191163604549in"}
+**B. Completed Training Sessions**
 
-![A graph with a curve Description automatically
-generated](media/image23.png){width="6.271186570428696in"
-height="5.059285870516185in"}
+As part of my onboarding process, I completed several training sessions
+that equipped me with the necessary knowledge to perform my tasks
+effectively:
 
-10\. (Bu sualı yazmayın)
+1.  **EHS Training**
 
-![A paper with text and images Description automatically generated with
-medium confidence](media/image24.png){width="6.268055555555556in"
-height="7.779861111111111in"}
+This training focused on workplace safety, emergency response
+procedures, and hazard identification, ensuring that all employees and
+interns understood how to maintain a safe working environment. It
+covered topics such as the proper use of personal protective equipment
+(PPE), chemical handling protocols, emergency evacuation procedures, and
+risk assessment techniques. Additionally, we have "toolbox meeting"
+everyday.
 
-![](media/image25.png){width="5.930555555555555in"
-height="0.5694444444444444in"}
+2.  **Process Overview for Metilox**: Provided insights into the
+    production process of Metilox.
 
-![A white paper with text and symbols Description automatically
-generated with medium
-confidence](media/image26.png){width="6.069444444444445in"
-height="4.958333333333333in"}
+3.  **Process Overview for Irganox 1010 & Packaging**: Focused on
+    antioxidant additive production and packaging procedures.
 
-11\.
+4.  **Process Training for Irgafos 168**: Highlighted key processing
+    steps and quality control measures.
 
-![A diagram of a normal distribution Description automatically
-generated](media/image27.png){width="5.958333333333333in"
-height="3.6666666666666665in"}
+5.  **Control Systems & Plant Automation Overview**:
 
-![A paper with text and images Description automatically
-generated](media/image28.png){width="5.944444444444445in"
-height="4.458333333333333in"}
+This training covered how automation improves process efficiency,
+reliability, and safety through real-time monitoring and control. It
+highlighted how sensors and automated systems regulate key parameters
+like temperature and pressure while minimizing human error.
 
-![A diagram of a diagram Description automatically generated with medium
-confidence](media/image29.png){width="6.097222222222222in"
-height="2.7222222222222223in"}
+A key takeaway was the importance of alarm management for early
+detection of process deviations. Additionally, the session emphasized
+data security, ensuring that access to process information is restricted
+to authorized personnel, protecting company knowledge and system
+integrity. Overall, the training reinforced how automation enhances both
+operational performance and safety in a chemical manufacturing
+environment.
 
-![A close-up of a text Description automatically
-generated](media/image30.png){width="6.180555555555555in"
-height="1.3333333333333333in"}
+6.  **Maintenance & Turnaround Process Flow**:
 
-![A white paper with black text Description automatically
-generated](media/image31.png){width="5.861111111111111in"
-height="4.305555555555555in"}
+This training covered equipment maintenance strategies and the
+structured approach to plant shutdown procedures. The trainer provided
+an example from a past turnaround, explaining how the process is
+meticulously planned months in advance to minimize downtime and ensure
+smooth execution.
 
-12\.
+A key takeaway was that turnarounds are the best learning opportunities,
+as they expose engineers to real-world troubleshooting, equipment
+overhauls, and system upgrades. The session emphasized the importance of
+coordination between different teams, ensuring that inspections,
+repairs, and testing are completed efficiently before restarting
+operations.
 
-![A white text with black text Description automatically
-generated](media/image32.png){width="6.138888888888889in"
-height="4.180555555555555in"}
+These training sessions helped me understand the different components of
+the manufacturing process and how various systems are interconnected.
 
-![A screenshot of a paper Description automatically
-generated](media/image33.png){width="6.208333333333333in"
-height="3.361111111111111in"}
+**C. Automation Review of PSV Documents**
 
-![A white paper with black text Description automatically
-generated](media/image34.png){width="6.041666666666667in"
-height="4.152777777777778in"}
+A major task I worked on was the automation of Pressure Safety Valve
+(PSV) document analysis. BASF had over 200 PSV reports that needed
+verification based on API standards, requiring a systematic and
+efficient approach.
 
-![A math equations and formulas Description automatically generated with
-medium confidence](media/image35.png){width="5.833333333333333in"
-height="2.0in"}
+**Process:**
 
-![A math equations and numbers Description automatically generated with
-medium confidence](media/image36.png){width="5.819444444444445in"
-height="2.0555555555555554in"}
+1.  Accessed the specific page of each PSV report.
 
-![A math equations and formulas Description automatically generated with
-medium confidence](media/image37.png){width="5.902777777777778in"
-height="2.8333333333333335in"}
+2.  Extracted table text data.
 
-![A diagram of a chemistry experiment Description automatically
-generated with medium
-confidence](media/image38.png){width="6.055555555555555in"
-height="5.458333333333333in"}
+3.  Transferred values to an Excel file.
 
-![A graph of a slope Description automatically
-generated](media/image39.png){width="6.097222222222222in"
-height="8.48611111111111in"}
+4.  Verified key specifications based on API Standards:
 
-![A paper with text and graphs Description automatically
-generated](media/image40.png){width="6.194444444444445in"
-height="7.902777777777778in"}
+    - Inlet Pressure Drop (API 520)
+
+    - Back Pressure Drop
+
+    - Required vs. Current Orifice Sizing
+
+5.  Used Python scripting with conditional statements to compare values
+    and identify inconsistencies.
+
+**Outcome:**
+
+- Developed an automated report identifying PSVs requiring corrective
+  action.
+
+- Assisted in reviewing vendor quotations and ensuring PSV
+  specifications met operational requirements
+
+Python scripting support for PSV automation was partially guided by
+responses from ChatGPT for debugging purposes.
+
+**D. Vacuum Pump Change (Still Ongoing)**
+
+I have been involved in troubleshooting a vacuum pump issue that has
+been causing operational inefficiencies due to debris accumulation and
+overheating. Upon investigation, it was discovered before me that some
+attached components were designed for a liquid ring vacuum pump rather
+than the current setup, which contributed to the malfunction.
+
+Working closely with the Process Support Team, we are redesigning the
+vacuum pump system based on a successful setup from another pump of the
+plant. This involves developing a revised P&ID and ensuring its proper
+integration into the existing system.
+
+This project has given me firsthand experience in how changes are
+implemented in the industry. The process includes identifying different
+instruments in both P&IDs, verifying on-site whether the P&IDs
+accurately reflect the existing system, designing the Management of
+Change (MOC), and ultimately presenting the project to department
+leaders for approval. This structured approach ensures that every
+modification is properly validated before implementation.
+
+**Outcome (Expected):**
+
+- Improved vacuum pump efficiency and reliability.
+
+- Developing a simplified P&ID for the updated design.
+
+**E. Learning New Softwares**
+
+As part of my internship, I explored various digital tools that enhance
+data analysis, automation, and process optimization. These tools are
+essential for improving efficiency and reducing manual work in
+industrial operations.
+
+- **TrendMiner**: A powerful data analytics tool connected to the
+  Distributed Control System (DCS) for real-time data access and
+  historical trend analysis. It helps in identifying process deviations
+  and optimizing operations.
+
+- **Power BI**: A data visualization tool that provides advanced
+  analytical capabilities, offering a more efficient alternative to
+  Excel for creating dashboards and reports.
+
+- **Power Automate**: A workflow automation tool that integrates
+  different applications, enabling process automation and minimizing
+  repetitive manual tasks.
+
+- **PowerApps**: A low-code application development platform used to
+  create customized business process applications, enhancing digital
+  transformation initiatives.
+
+By learning these tools, I gained insights into how data-driven
+decision-making improves process efficiency, and I was able to apply
+some of them to streamline workflow automation within my tasks.
+
+For example, I developed an automated workflow for utility bills using
+Power Automate. First, I trained an AI model in PowerApps using older
+utility bill receipts. After evaluating its accuracy on test samples, I
+integrated Power Automate with PowerApps. This automation was designed
+to trigger when a PDF receipt of a utility bill was uploaded to a
+specific folder in SharePoint. The pretrained model would then process
+the PDF, extract the necessary data, and return it as an Excel file**,**
+reducing manual data entry and improving efficiency.
+
+This hands-on project demonstrated how digital tools can automate
+routine tasks, saving time and minimizing errors in industrial
+operations.
+
+**CHALLENGES & SOLUTIONS**
+
+This internship presented several challenges, including adapting to new
+industrial processes, learning unfamiliar software tools, and
+troubleshooting equipment failures. Overcoming these challenges involved
+proactive problem-solving, collaboration with experienced engineers, and
+continuous learning. Key solutions included automation of repetitive
+tasks, structured learning approaches for complex systems, and hands-on
+experimentation with plant operations.
+
+**POSSIBLE CAREER PATHS**
+
+Potential career paths based on my internship experience include process
+engineering, automation engineering, and data-driven chemical analysis
+roles. These fields align with my interests in optimizing industrial
+processes, integrating digital tools, and applying chemical engineering
+principles in innovative ways.
+
+**CONCLUSION**
+
+This internship has provided invaluable practical experience, allowing
+me to apply theoretical knowledge in a real-world setting. Through
+hands-on tasks, automation projects, and problem-solving challenges, I
+have developed a deeper understanding of industrial chemical
+engineering. I am eager to continue learning and exploring new
+opportunities in this field.
+
+**REFERENCES**
+
+- **Perry, R. H., Green, D. W., & Maloney, J. O. (2008).** *Perry\'s
+  Chemical Engineers\' Handbook* (8th ed.). McGraw-Hill Education.
+
+- **TrendMiner**\
+  TrendMiner. (n.d.). *Self-Service Industrial Analytics Software*.\
+  Retrieved from <https://www.trendminer.com>
+
+- **Microsoft Power BI**\
+  Microsoft. (n.d.). *What is Power BI?*.\
+  Retrieved from <https://powerbi.microsoft.com>
+
+- **Microsoft Power Automate**\
+  Microsoft. (n.d.). *Automate workflows with Microsoft Power
+  Automate*.\
+  Retrieved from <https://powerautomate.microsoft.com>
+
+- **Microsoft PowerApps**\
+  Microsoft. (n.d.). *Create custom apps with PowerApps*.\
+  Retrieved from <https://powerapps.microsoft.com>
+
+- **American Petroleum Institute (API). (2015).**\
+  *API Standard 520: Sizing, Selection, and Installation of
+  Pressure-Relieving Devices, Part II---Installation* (6th ed.). API
+  Publishing.\
+  Retrieved from
+  <https://www.api.org/~/media/files/publications/whats%20new/520_part2_e6%20pa.pdf>\
+  D
+
+- OpenAI. (2025). *ChatGPT (March 14 version)* \[Large language
+  model\].\
+  Retrieved from <https://chat.openai.com>
+
+- PyPDF2 (n.d.). *PyPDF2: A PDF library for Python*.\
+  Retrieved from <https://pypdf2.readthedocs.io/>
+
+- openpyxl (n.d.). *openpyxl - A Python library to read/write Excel 2010
+  xlsx/xlsm/xltx/xltm files*. Retrieved from
+  <https://openpyxl.readthedocs.io/>
+
+- **Pragmatic Works. (2023).** *Power Automate Tutorial ⚡ Beginner To
+  Pro \[Full Course\]* \[Video\].\
+  YouTube.
+  \[https://www.youtube.com/live/KsgxDz-nY_I?si=bLCLRcGGts0zVhlU\]
+
+<!-- -->
+
+- **\
+  **
+
+**APPENDIX**
+
+1.  Python Script:
+
+**\
+**
+
+**\
+**
+
+**WEEKLY JOURN**
+
+**AL**
+
+2.  Power Apps Automation Flow (one of them)
+
+![](media/image8.png){width="6.302777777777778in"
+height="4.520138888888889in"}
+
+3.  Model Accuracy:
+
+![](media/image9.png){width="3.4636646981627295in"
+height="4.56847987751531in"}
+
+**WEEKLY JOURNAL**
+
+  -------------------------------------------------------------------------
+   **Week**  **Main Activity**
+  ---------- --------------------------------------------------------------
+      1      Trainings and P&ID review
+
+      2      P&ID review and exploring the plant
+
+      3      Understanding plant operations and initial troubleshooting
+             tasks
+
+      4      Assisted in vacuum pump troubleshooting
+
+      5      Automation of PSV document review using Python
+
+      6      Vacuum pump troubleshooting and system improvement planning
+
+      7      Learning new digital tools: TrendMiner, Power BI, Power
+             Automate, and PowerApps
+
+      8      Integration of Power Automate with PowerApps for workflow
+             automation
+
+      9      Continued vacuum pump modification work, checking field
+             conditions for process updates
+
+      10     Ongoing Vacuum Pump work, adding missing tags to Trendminer
+  -------------------------------------------------------------------------
