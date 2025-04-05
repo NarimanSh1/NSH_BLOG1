@@ -367,11 +367,6 @@ opportunities in this field.
   YouTube.
   \[https://www.youtube.com/live/KsgxDz-nY_I?si=bLCLRcGGts0zVhlU\]
 
-**WEEKLY JOURN**
-
-**AL**
-
-
 **WEEKLY JOURNAL**
 
   -------------------------------------------------------------------------
