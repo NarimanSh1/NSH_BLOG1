@@ -16,7 +16,6 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: Asia/Singapore
@@ -36,16 +35,7 @@ author:
   name   : "Nariman Shirinli"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Chemical Engineering student sharing curated chemistry notes."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/narimansh1"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:"
+
 
 footer:
   links:
@@ -77,10 +67,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
 
 nav:
   - title: "Home"
