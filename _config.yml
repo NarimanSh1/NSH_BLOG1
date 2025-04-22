@@ -36,7 +36,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Chemical Engineering student sharing curated chemistry notes."
 
-
 footer:
   links:
     - label: "GitHub"
@@ -56,17 +55,13 @@ defaults:
       read_time: true
       comments: false
       share: true
-      related: true
+      related: false   # Changed from true to false to remove tag-based suggestions
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
 
 nav:
   - title: "Home"
