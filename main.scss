@@ -3,3 +3,9 @@
 
 $minimal-mistakes-skin: "dark";
 @import "minimal-mistakes";
+
+// Custom wider content width
+.page__content {
+  max-width: 900px !important;
+  margin: 0 auto;
+}
