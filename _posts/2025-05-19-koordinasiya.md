@@ -38,10 +38,10 @@ Diamminesilver (I) xloride - \[Ag(NH<sub>3</sub>)<sub>2</sub>\]Cl
 
 Kalium heksasiyanoferrat (III) K<sub>3</sub>\[Fe(CN)<sub>6</sub>\]
 
-1. **_Daxili sfera transkript (\[ \]) içərisində verilir. Daxili sferada metal öncə yazılsa da, liqandların adları daha öncə qeyd edilməlidir._**
+2. **_Daxili sfera transkript (\[ \]) içərisində verilir. Daxili sferada metal öncə yazılsa da, liqandların adları daha öncə qeyd edilməlidir._**
 
 Tetraminnecopper(II) sulfat – \[Cu(NH<sub>3</sub>)<sub>4</sub>\]SO<sub>4</sub>
 
 Heksamminekobalt (III) xlorid – \[Co(NH­<sub>3</sub>)<sub>6</sub>\]Cl<sub>3</sub>
 
-1. **_Liqand sayı aşağıdakı cədvəldəki söz önləri ilə qeyd edilməlidir. Sadə hallarda ikinci sütundakı söz önləri istifadə edilir. Əgər liqandın adında bu sözönlərindən biri varsa, kompleksin adını sadələşdirmək üçün üçüncü sütundakı adlardan istifadə edilir._**
+3. **_Liqand sayı aşağıdakı cədvəldəki söz önləri ilə qeyd edilməlidir. Sadə hallarda ikinci sütundakı söz önləri istifadə edilir. Əgər liqandın adında bu sözönlərindən biri varsa, kompleksin adını sadələşdirmək üçün üçüncü sütundakı adlardan istifadə edilir._**
